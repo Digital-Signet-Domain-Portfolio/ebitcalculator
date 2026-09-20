@@ -1,0 +1,57 @@
+# EBIT Calculator: Reconciliation Walker, 10-K Sourced (2026)
+
+> Free EBIT calculator. Walks Net Income to Operating Income to EBIT to EBITDA in one view. Every figure sourced to SEC EDGAR, FASB ASC, and Damodaran NYU
+
+## Pages
+
+- [Home](https://ebitcalculator.com): Free EBIT calculator. Reconciles Net Income to Operating Income to EBIT to EBITDA in one view. Inputs use 10-K labels. Every figure...
+- [About the author](https://ebitcalculator.com/about-the-author): Oliver Wakefield-Smith built and reviews ebitcalculator.com. Credentials, prior portfolio, and the named CPA reviewer
+- [Changelog and refresh trail](https://ebitcalculator.com/changelog): Quarterly refresh trail for ebitcalculator.com. Source verification dates, filing updates, and methodology changes
+- [EBIT formula: three ways to compute it](https://ebitcalculator.com/ebit-formula): Three formulas for EBIT: top-down from revenue, middle from operating income, bottom-up from net income. Which is most defensible
+- [EBIT vs EBITDA: the D&A bridge](https://ebitcalculator.com/ebit-vs-ebitda): EBIT vs EBITDA differ by exactly one line: depreciation and amortization. When to use each in valuation and covenant tests
+- [EBIT vs Gross Profit: the operating-expense bridge](https://ebitcalculator.com/ebit-vs-gross-profit): Gross Profit minus operating expenses equals EBIT. The lines that sit between them, plus why gross profit is a sanity check
+- [EBIT vs Net Income: the bottom-up bridge](https://ebitcalculator.com/ebit-vs-net-income): Net Income to EBIT is the interest plus tax bridge. The two add-back rules, where to find each line on a 10-K,...
+- [EBIT vs Operating Income: when they differ](https://ebitcalculator.com/ebit-vs-operating-income): EBIT and Operating Income are often the same number but not always. Non-operating items, FX gains, and equity-method income drive the gap
+- [EBIT margin calculator + sector medians](https://ebitcalculator.com/extensions/ebit-margin): Compute EBIT margin (EBIT / revenue) and benchmark against the 2026 Damodaran NYU sector medians. Software, retail, manufacturing, and more
+- [EBIT per share](https://ebitcalculator.com/extensions/ebit-per-share): EBIT per share equals EBIT divided by diluted share count. When EBIT/share tells you something EPS hides
+- [EBIT to EBITDA bridge](https://ebitcalculator.com/extensions/ebit-to-ebitda-bridge): Walk EBIT to EBITDA using D&A. Why income-statement and cash-flow-statement D&A sometimes differ. Amortization of intangibles
+- [EV/EBIT multiple calculator](https://ebitcalculator.com/extensions/ev-to-ebit): Compute EV/EBIT for a public company. Build EV from market cap, debt, and cash. Sector multiples from the 2026 Damodaran dataset
+- [Interest coverage ratio calculator (TIE)](https://ebitcalculator.com/extensions/interest-coverage-ratio): Times-interest-earned (interest coverage ratio) equals EBIT / interest expense. Investment-grade thresholds and covenant-test conventions
+- [ROCE calculator (EBIT / capital employed)](https://ebitcalculator.com/extensions/return-on-capital-employed): Return on capital employed equals EBIT divided by capital employed (total debt + equity, or net assets). Healthy ROCE by industry in...
+- [FAQ: 14 EBIT questions answered](https://ebitcalculator.com/faq): Fourteen highest-frequency EBIT questions, with primary-source citations on each answer
+- [Apple EBIT FY25: 10-K walkthrough](https://ebitcalculator.com/filings/aapl-fy25): Apple FY25 EBIT computed line-by-line from the 10-K. Operating income, interest, tax, D&A, and the bridge to Adjusted EBIT where applicable
+- [Microsoft EBIT FY25: 10-K walkthrough](https://ebitcalculator.com/filings/msft-fy25): Microsoft FY25 EBIT computed line-by-line from the 10-K. Operating income, interest, tax, D&A, and the bridge to Adjusted EBIT where applicable
+- [NVIDIA EBIT FY25: 10-K walkthrough](https://ebitcalculator.com/filings/nvda-fy25): NVIDIA FY25 EBIT computed line-by-line from the 10-K. Operating income, interest, tax, D&A, and the bridge to Adjusted EBIT where applicable
+- [Snowflake EBIT FY25: 10-K walkthrough](https://ebitcalculator.com/filings/snow-fy25): Snowflake FY25 EBIT computed line-by-line from the 10-K. Operating income, interest, tax, D&A, and the bridge to Adjusted EBIT where applicable
+- [Tesla EBIT FY25: 10-K walkthrough](https://ebitcalculator.com/filings/tsla-fy25): Tesla FY25 EBIT computed line-by-line from the 10-K. Operating income, interest, tax, D&A, and the bridge to Adjusted EBIT where applicable
+- [Uber EBIT FY25: 10-K walkthrough](https://ebitcalculator.com/filings/uber-fy25): Uber FY25 EBIT computed line-by-line from the 10-K. Operating income, interest, tax, D&A, and the bridge to Adjusted EBIT where applicable
+- [Depreciation and amortization in EBIT](https://ebitcalculator.com/line-items/depreciation-and-amortization): Why D&A sits inside EBIT but outside EBITDA. Where to find it (income statement vs cash flow statement). Amortization of acquired intangibles
+- [Impairments and write-downs in EBIT](https://ebitcalculator.com/line-items/impairments-and-write-downs): Goodwill impairment, intangible-asset write-downs, and inventory write-downs. Where they sit on the income statement and whether they belong in Adjusted EBIT
+- [Income tax provision in EBIT](https://ebitcalculator.com/line-items/income-tax-provision): Why the income tax provision is added back. Current vs deferred. One-off DTA releases, GILTI, BEAT
+- [Interest expense in EBIT](https://ebitcalculator.com/line-items/interest-expense): Why interest expense is added back in the Net Income to EBIT bridge. Where to find it on a 10-K. Net vs...
+- [Restructuring charges as EBIT add-backs](https://ebitcalculator.com/line-items/restructuring-charges): When restructuring charges should be added back in Adjusted EBIT. Severance, lease exits, asset write-downs
+- [Stock-based compensation in EBIT](https://ebitcalculator.com/line-items/stock-based-compensation): Is SBC a real cost in EBIT? Why SaaS adds it back in Adjusted EBIT. SEC stance on SBC as non-GAAP add-back....
+- [Adjusted EBIT (non-GAAP): SBC, restructuring, impairments](https://ebitcalculator.com/methods/adjusted-ebit-non-gaap): What Adjusted EBIT is, which add-backs are commonly defended, and what the SEC allows under Regulation G and Item 10(e)
+- [EBIT from the Cash Flow Statement: reverse method](https://ebitcalculator.com/methods/from-cash-flow-statement): When and how to reconstruct EBIT from the cash flow statement. Useful for private-company diligence where the income statement is incomplete
+- [EBIT from Net Income: bottom-up walkthrough](https://ebitcalculator.com/methods/from-net-income): How to bridge Net Income up to EBIT using interest expense and the tax provision. Treatment of minority interest, discontinued operations, and...
+- [Operating Income to EBIT: middle method](https://ebitcalculator.com/methods/from-operating-income): When operating income equals EBIT and when it does not. Non-operating items, FX, equity-method, and gains on sale
+- [EBIT from Revenue: top-down method](https://ebitcalculator.com/methods/from-revenue): Top-down EBIT: Revenue minus COGS minus operating expenses. Where SG&A, R&D, and D&A sit. How to treat depreciation buried in COGS
+- [EBIT & EBITDA margin by industry, 2026 (Damodaran)](https://ebitcalculator.com/sectors/2026-damodaran-medians): The Jan-2026 Damodaran NYU dataset of EBIT (operating) margin and EBITDA/Sales by US industry. Definition, the full 94-industry table with both columns,...
+- [Why EBIT does not apply to banks (NIM)](https://ebitcalculator.com/sectors/banks-why-nim-replaces-ebit): EBIT is meaningless for banks because interest income and expense are the primary product. Net interest margin (NIM), efficiency ratio, and PPNR...
+- [Insurance: combined ratio, not EBIT](https://ebitcalculator.com/sectors/insurance-combined-ratio-not-ebit): Insurers use combined ratio (loss ratio + expense ratio) to measure underwriting profitability. EBIT-style analysis only fits the holdco wrapper
+- [Manufacturing EBIT margin and maintenance capex](https://ebitcalculator.com/sectors/manufacturing-and-capex-heavy): Capex-heavy manufacturing has noisy EBIT because D&A timing diverges from maintenance capex. EBITDA-capex is the cleaner sense-check
+- [Professional services EBIT margin](https://ebitcalculator.com/sectors/professional-services): Professional services EBIT is mostly a people-cost story. Utilisation rate flows directly through to EBIT
+- [REITs: why FFO replaces EBIT](https://ebitcalculator.com/sectors/reits-why-ffo-replaces-ebit): REITs use FFO (funds from operations) and AFFO because real-estate depreciation does not reflect economic wear. Nareit definition and AFFO adjustments
+- [Retail EBIT margin and COGS volatility](https://ebitcalculator.com/sectors/retail-and-cogs-volatility): Retail runs 3-6% EBIT margin and is dominated by COGS swings. Shrink, LIFO/FIFO, and omnichannel fulfilment cost classification
+- [SaaS EBIT margin and the Rule of 40](https://ebitcalculator.com/sectors/saas-and-the-rule-of-40): Typical SaaS EBIT margins in 2026, why SaaS firms report Adjusted EBIT, and how the Rule of 40 combines margin with growth
+- [Primary sources used by ebitcalculator.com](https://ebitcalculator.com/sources): Inventory of every primary source ebitcalculator.com cites. One row per source, each with URL and last-verified date
+- [10-K paste parser (auto-populate the EBIT walker)](https://ebitcalculator.com/tools/10k-paste-parser): Paste an income-statement snippet from a 10-K and the parser extracts Revenue, COGS, OpEx, D&A, interest, tax, and Net Income into the...
+- [CSV export for EBIT walker](https://ebitcalculator.com/tools/csv-export): Ungated CSV export of the EBIT walker output. No email-wall. RFC 4180 compliant. Drops straight into Excel
+- [Multi-year EBIT trend calculator](https://ebitcalculator.com/tools/multi-year-trend): Paste 3-5 years of P&L line items into the walker and get the EBIT margin trajectory with YoY deltas
+- [Permalink share for EBIT scenarios](https://ebitcalculator.com/tools/permalink-share): Share an exact EBIT walker scenario via a URL-encoded link. No server-side storage. GAAP and Adjusted scenarios are both preserved in the...
+- [EBIT calculator UK: IFRS and FRS 102 variant](https://ebitcalculator.com/uk/ebit-calculator): EBIT under IFRS and FRS 102. How IFRS 16 lease accounting changes EBIT vs EBITDA. Typical UK PE LBO covenant use
+- [What is EBIT? Definition, formula, and limits](https://ebitcalculator.com/what-is-ebit): EBIT (earnings before interest and taxes) is operating profit before financing costs and tax. Definition, formula, and when EBIT stops being meaningful
+
+---
+
+*Generated 2026-08-26 from EBIT Calculator: Reconciliation Walker, 10-K Sourced (2026) site source.*
